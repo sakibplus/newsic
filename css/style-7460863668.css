@@ -15602,7 +15602,7 @@ i svg {
 }
 @media (max-width:414px) {
  body {
-  padding-top:130px!important
+  padding-top:100px!important
  }
  .player-radio-bar {
   height:50px!important;
