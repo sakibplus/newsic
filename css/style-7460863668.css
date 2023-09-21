@@ -14621,8 +14621,8 @@ div#formConnection .error-ajax .error-label {
  margin-bottom:20px
 }
 .player-radio-bar .container {
- padding-right:15px;
- padding-left:15px
+ padding-right:50px;
+ padding-left:1px
 }
 .player-radio-bar .control-infos {
  padding:0 7px
