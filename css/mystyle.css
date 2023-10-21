@@ -2537,7 +2537,7 @@ ul.pagination-custom li a:focus {
   border-bottom: 0px solid #ff0000 !important;
 }
 .btn:not(.btn-toplink) {
-  background: linear-gradient(to bottom, #ffffff, #ffffff);
+  background: 
   font-size: 14px;
   color: #e52d27;
   font-style: normal;
